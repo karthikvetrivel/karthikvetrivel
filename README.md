@@ -12,7 +12,7 @@
 Hey! Thanks for dropping by. My name is [Karthik Vetrivel](https://karthikvetrivel.com), an incoming freshman at Stanford University, where I intend to major in Computer Science. I love to build great software with beautiful user interfaces and clean user experiences. Moreover, I love the cycle of getting my work in the hands of users, iterating, and revising.
 
 Recently, I've been looking into using AR/VR to create simulations for introductory chemistry/physics classes. My previous experience includes two previous 
-software engineering internships and a research internship at the University of Washington. Through these, I've demonstrated my ability to work with large codebases, collaborate with talented individuals, and conduct independent research.
+software engineering internships and a research internship at the University of Washington. Through these, I've demonstrated my ability to work with large codebases, collaborate with talented individuals, and conduct (somewhat) independent research.
 
 
 **Let's Get in Contact**  
