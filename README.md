@@ -7,6 +7,7 @@
 </a>
 
 <br />
+<br />
 
 Hey! Thanks for dropping by. My name is [Karthik Vetrivel](https://karthikvetrivel.com), an incoming freshman at Stanford University, where I intend to major in Computer Science. I love to build great software with beautiful user interfaces and clean user experiences. Moreover, I love the cycle of getting my work in the hands of users, iterating, and revising.
 
