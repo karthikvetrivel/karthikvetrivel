@@ -9,7 +9,7 @@
 <br />
 <br />
 
-Hey! Thanks for dropping by. My name is [Karthik Vetrivel](https://karthikvetrivel.com), an incoming freshman at Stanford University, where I intend to major in Computer Science. I love to build great software with beautiful user interfaces and clean user experiences. Check out my work!
+Hey! Thanks for dropping by. My name is [Karthik Vetrivel](https://karthikvetrivel.com), a freshman at Stanford University, where I intend to major in Electrical Engineering or Computer Science. I love to build great software with beautiful user interfaces and clean user experiences. Check out my work!
 
 **Let's Get in Contact**  
 - 📫 [Email Me!](kvetriv@stanford.edu)
