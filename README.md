@@ -12,7 +12,7 @@
 Hey! Thanks for dropping by. My name is [Karthik Vetrivel](https://karthikvetrivel.com), a computer science undergraduate at Stanford University. I love to tackle meaningful technical challenges and design intuitive products. Most recently, I've worked on a joint project between Meta and Stanford investigating using virtual reality for synthesizing human motion. 
 
 **Let's Get in Contact**  
-- 📫 [Email Me!](kvetriv@stanford.edu)
+- 📫 [Email Me!](mailto@kvetriv@stanford.edu)
 
 
 
