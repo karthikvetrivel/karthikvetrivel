@@ -10,11 +10,6 @@
 <br />
 
 Hey! Thanks for dropping by. My name is [Karthik Vetrivel](https://karthikvetrivel.com), a computer science undergraduate at Stanford University. I love to tackle meaningful technical challenges and design intuitive products. Drop me a note if you're working on something interesting! 
-**Let's Get in Contact**  
-- 📫 [Email Me!](https://mailto@kvetriv@stanford.edu)
-
-
-
 
 
 <!--
