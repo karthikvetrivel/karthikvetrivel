@@ -9,7 +9,8 @@
 
 🔍 Passionate about tackling meaningful technical challenges and designing intuitive products.
 
-💌 If you're working on something interesting or just want to connect, feel free to [drop me a note](mailto:your-email@example.com).
+💌 If you're working on something interesting or just want to connect, feel free to [drop me a note](mailto:kvetriv@stanford.edu).
+
 ---
 
 Stay curious! 🚀
