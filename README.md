@@ -1,15 +1,19 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.linkedin.com/in/karthik-vetrivel-05a696166/">
-  <img align="left" alt="Karthik's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://twitter.com/karthikvetrive3">
-  <img align="left" alt="Karthik's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+### Hey there, I'm Karthik! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-<br />
-<br />
+[![LinkedIn Badge](https://img.shields.io/badge/-KarthikVetrivel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karthik-vetrivel-05a696166/)](https://www.linkedin.com/in/karthik-vetrivel-05a696166/)
+[![Twitter Badge](https://img.shields.io/badge/-karthikvetrive3-1da1f2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/karthikvetrive3)](https://twitter.com/karthikvetrive3)
 
-Hey! Thanks for dropping by. My name is [Karthik Vetrivel](https://karthikvetrivel.com), a computer science undergraduate at Stanford University. I love to tackle meaningful technical challenges and design intuitive products. Drop me a note if you're working on something interesting! 
+---
+
+📚 I'm currently pursuing my computer science undergraduate degree at [Stanford University](https://www.stanford.edu/).
+
+🔍 Passionate about tackling meaningful technical challenges and designing intuitive products.
+
+💌 If you're working on something interesting or just want to connect, feel free to [drop me a note](mailto:your-email@example.com).
+---
+
+Stay curious! 🚀
+
 
 
 <!--
