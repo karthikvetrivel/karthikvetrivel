@@ -1,19 +1,10 @@
 ### Hey there, I'm Karthik! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-[![LinkedIn Badge](https://img.shields.io/badge/-KarthikVetrivel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karthik-vetrivel-05a696166/)](https://www.linkedin.com/in/karthik-vetrivel-05a696166/)
-[![Twitter Badge](https://img.shields.io/badge/-karthikvetrive3-1da1f2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/karthikvetrive3)](https://twitter.com/karthikvetrive3)
 
 ---
 
-📚 I'm currently pursuing my computer science undergraduate degree at [Stanford University](https://www.stanford.edu/).
+I'm currently pursuing my B.S/M.S Computer Science degree at Stanford University. Next year, I'm heading to NVIDIA to work at the intersection of container runtimes and GPU inferencing. Drop me a [note](mailto:kvetriv@stanford.edu) if what I'm working on excites you. 
 
-🔍 Passionate about tackling meaningful technical challenges and designing intuitive products.
-
-💌 If you're working on something interesting or just want to connect, feel free to [drop me a note](mailto:kvetriv@stanford.edu).
-
----
-
-Stay curious! 🚀
 
 
 
