@@ -3,9 +3,9 @@
 
 ---
 
-I'm currently pursuing my B.S/M.S Computer Science degree at Stanford University. Next year, I'm heading to NVIDIA to work at the intersection of container runtimes and GPU inferencing. Drop me a [note](mailto:kvetriv@stanford.edu) if what I'm working on excites you. 
+I'm currently pursuing my B.S/M.S Computer Science degree at Stanford University. Next year, I'm heading to NVIDIA to work at the intersection of container runtimes and GPU inferencing. 
 
-
+In the past, I worked on various cabin sensing and autopilot tasks at Tesla and robotics at Stanford AI Lab. Drop me a [note](mailto:kvetriv@stanford.edu) if what I'm working on excites you. 
 
 
 <!--
